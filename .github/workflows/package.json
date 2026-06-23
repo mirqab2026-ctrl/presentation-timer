@@ -1,0 +1,13 @@
+{
+  "name": "presentation-timer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Presentation timer wrapped as an Android app via Capacitor",
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
