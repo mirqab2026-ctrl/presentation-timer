@@ -1,0 +1,8 @@
+{
+  "appId": "com.presentationtimer.app",
+  "appName": "مؤقت العرض",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0c0f14"
+  }
+}
